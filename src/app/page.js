@@ -6,7 +6,7 @@ export default function Home() {
       <nav className="w-full px-4 py-2">
         <h1 className="text-2xl font-bold font-bruno">TruText</h1>
       </nav>
-      <main className="w-[90%] max-w-2xl mx-auto mt-32">
+      <main className="w-[90%] max-w-2xl mx-auto mt-24 lg:mt-32">
         <h1 className="text-xl text-center text-gray-800 font-bold mb-4">
           Detect AI-Generated Text
           <br />
